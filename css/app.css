@@ -1,0 +1,13 @@
+/* RESET */
+body{
+    margin: 0;
+}
+
+/* HEADER */
+.page-header {
+    background-color: rgb(167, 229, 253);
+    padding: 40px 10px;
+}
+.logo{
+    height: 40px;
+}
